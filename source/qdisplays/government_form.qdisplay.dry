@@ -1,7 +1,7 @@
 
-(0..0) Provisional Government
-(1..1) Soviet Government
-(2..2) Constitutional Government
-(3..3) Directorate
-(4..4) Dictatorship
-(5..5) One-Party Soviet Government
+(0..0) Geçici Hükümet
+(1..1) Konsey Hükümeti
+(2..2) Anayasal Hükümet
+(3..3) Direktörlük
+(4..4) Diktatörlük
+(5..5) Tek-Parti Konsey Hükümeti
