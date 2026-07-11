@@ -1,11 +1,11 @@
 
 # Efficacy - also used for morale and equipment quality
 
-(..0.05) nonexistant
-(0.05..0.14) very low
-(0.14..0.34) low
-(0.34..0.45) medium-low
-(0.45..0.55) medium
-(0.55..0.69) medium-high
-(0.69..0.86) high
-(0.86..) very high
+(..0.05) yok
+(0.05..0.14) çok az
+(0.14..0.34) az
+(0.34..0.45) az-orta
+(0.45..0.55) orta
+(0.55..0.69) yüksek-orta
+(0.69..0.86) yüksek
+(0.86..) çok yüksek
