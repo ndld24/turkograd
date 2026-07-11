@@ -1,7 +1,7 @@
 
-(-2..-2) No policy
-(-1..-1) No change
-(0..0) Voluntary sales
-(1..1) Compensated seizures
-(2..2) Uncompensated seizures
-(3..3) Rural class struggle
+(-2..-2) Yasa yok
+(-1..-1) Değişim yok
+(0..0) Gönüllü satılma
+(1..1) Telafili arazi el koyumu
+(2..2) Telafisiz arazi el koyumu
+(3..3) Köylü ayaklanması
