@@ -1,8 +1,8 @@
 
-(..11) low
-(11..25) noticeable
-(25..35) high
-(35..45) very high
-(45..55) omnipresent
-(55..65) famine
-(65..) severe famine
+(..11) az
+(11..25) mevcut
+(25..35) yüksek
+(35..45) çok yüksek
+(45..55) evrensel
+(55..65) kıtlık
+(65..) aşırı kıtlık
