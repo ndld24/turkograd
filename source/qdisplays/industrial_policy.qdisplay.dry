@@ -1,7 +1,7 @@
 
 
-(..-1) Laissez-faire
-(0..0) Trade unions
-(1..1) Worker supervision
-(2..2) Syndicalism
-(3..) State ownership
+(..-1) Serbest Piyasa
+(0..0) Sendika Kuruluşu
+(1..1) İşçi yönetimi
+(2..2) Sendikalism
+(3..) Devlet Yönetimi
